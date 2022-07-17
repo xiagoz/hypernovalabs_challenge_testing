@@ -1,10 +1,4 @@
-### hypernovalabs_challenge_testing
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
+## hypernovalabs_challenge_testing
 
 ### ¿Qué es este repositorio
 
@@ -25,6 +19,10 @@
 11. git push origin main
 12. git pull origin main
 13. git status
+
+### Video del funcionamiento de las pruebas
+
+https://www.loom.com/share/dc83422d56d648fdb16b6296458d3e03
 
 ### Pruebas a Automatizar
 
